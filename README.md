@@ -23,14 +23,14 @@ With a strong understanding of both hardware and software, I have been involved 
 - Knowledge of microcontrollers and microprocessors.
 - Testing, debugging, and optimizing performance of embedded systems, build multi-threaded system.
 - Working with embedded protocols and technologies such as SPI, I2C, UART, MQTT, BLE, WiFi, and LoRa.
-- I have 2 years experience programming firmware Camera: Audio Encode & Video Encode,Mp4,AAC,RTSP,HLS,.. Cloud storage AWS3.
+- I have over 1 years experience programming firmware Camera: Audio Encode & Video Encode,Mp4,AAC,RTSP,HLS,.. Cloud storage AWS3.
 - Ensuring reliability and safety in embedded systems.
 
 ## Accomplished Projects
 
 1. **Development firmware Camera**:
 
-    - I have 2 years as a firmware design engineer in FPT Camera R&D department.
+    - I have over 1 years as a firmware design engineer in FPT Camera R&D department.
     - My main job is to research and develop camera features. Solutions for storing and processing images, audio, streaming on camera.
     - The job requires knowledge of video & audio encode, common streaming standards such as: HLS, TS, RTSP, RTMP...
     - Analyze and process video & audio signals: H264/H265 ,PCM,G711, AAC.
