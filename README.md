@@ -1,4 +1,4 @@
-# Profile: Embedded Engineer
+# Profile: Embedded Software Engineer
 
 ## Personal Information
 
