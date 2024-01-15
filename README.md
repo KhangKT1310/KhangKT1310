@@ -1,4 +1,4 @@
-# Profile: Embedded Software Engineer
+# Embedded Software Engineer
 
 ## Personal Information
 
@@ -8,6 +8,18 @@
 - **Address:** Ho Chi Minh, Viet Nam
 - **Email:** <khangkieutrong@gmail.com>
 - **Phone:** +84964991713
+
+## My things
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,github,linux,powershell,aws)](https://skillicons.dev)
+
+## My stats
+![](https://github-readme-stats.vercel.app/api?username=Khangkt1310&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Khangkt1310&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khangkt1310&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Khangkt1310&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ## Introduction
 
@@ -24,7 +36,7 @@ I also have experience in security camera firmware development and an understand
 - Knowledge of microcontrollers and microprocessors.
 - Testing, debugging, and optimizing the performance of embedded systems, building multi-threaded systems.
 - Working with embedded protocols and technologies such as SPI, I2C, UART, MQTT, BLE, WiFi, and LoRa.
-- I have over 1 year of experience programming firmware Cameras: Audio Encode & Video Encode, Mp4, AAC, RTSP, and HLS. Cloud storage AWS3.
+- I have almost 2 year of experience programming firmware Cameras: Audio Encode & Video Encode, Mp4, AAC, RTSP, and HLS. Cloud storage AWS3.
 - Ensuring reliability and safety in embedded systems.
 
 
