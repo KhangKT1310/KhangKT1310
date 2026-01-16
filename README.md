@@ -36,7 +36,7 @@ I also have experience in security camera firmware development and an understand
 - Knowledge of microcontrollers and microprocessors.
 - Testing, debugging, and optimizing the performance of embedded systems, building multi-threaded systems.
 - Working with embedded protocols and technologies such as SPI, I2C, UART, MQTT, BLE, WiFi, and LoRa.
-- I have almost 2 year of experience programming firmware Cameras: Audio Encode & Video Encode, Mp4, AAC, RTSP, and HLS. Cloud storage AWS3.
+- I have almost 5 years of experience programming firmware for cameras: Audio Encode & Video Encode, Mp4, AAC, RTSP, and HLS. Cloud storage
 - Ensuring reliability and safety in embedded systems.
 
 
@@ -44,7 +44,7 @@ I also have experience in security camera firmware development and an understand
 
 1. **Development firmware Camera**:
 
-    - I have over 1 year as a firmware design engineer in the FPT Camera R&D department.
+    - I have over 5 years of experience as a firmware design engineer for the Camera Surveillance 
     - My main job is to research and develop camera features. Solutions for storing and processing images, audio, and streaming on camera.
     - The job requires knowledge of video & audio encoding, and common streaming standards such as HLS, TS, RTSP, RTMP...
     - Analyze and process video & audio signals: H264/H265 ,PCM,G711, AAC.
@@ -57,7 +57,7 @@ I also have experience in security camera firmware development and an understand
 
 3. **Healthy Care - Finger Pulse Oximeter**:
     - The device is developed on esp32 + IDF.
-    - The device helps to check the heart rate and blood quickly
+    - The device helps to check the heart rate and blood pressure quickly
     - Display parameters on LCD, connect to send data to phone via BLE 5.0 & wifi AP mode.
     
 4. **Smart Lora for the Farm**:
