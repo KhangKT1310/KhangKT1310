@@ -1,11 +1,10 @@
-# Embedded Software Engineer
+# Embedded Software Engineer | Camera Firmware | IoT | RTSP/WebRTC Streaming | Embedded Linux
 
 ## Personal Information
 
 - **Full Name:** Kieu Trong Khang
-- **Profession:** Embedded Engineer
-- **Date of Birth:** 13/10/1999
-- **Address:** Ho Chi Minh, Viet Nam
+- **Profession:**  Embedded Software Engineer | Camera Firmware
+- **Address:** Viet Nam
 - **Email:** <khangkieutrong@gmail.com>
 - **Phone & WatchsApp:** +84964991713
 
@@ -13,59 +12,98 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,github,linux,powershell,aws)](https://skillicons.dev)
 
 ## My stats
-![](https://github-readme-stats-pi-six-21.vercel.app/api?username=Khangkt1310&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Khangkt1310&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats-pi-six-21.vercel.app/api/top-langs/?username=Khangkt1310&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Khangkt1310&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-## Introduction
+# Hi, I'm Khang 👋
 
-I am an Embedded Engineer with extensive experience and knowledge in the field of embedded systems. I am passionate about innovation and building intelligent embedded systems, from initial design to final deployment and testing.
+I am an **Embedded Software Engineer specializing in Camera, IoT, and Real-Time Streaming Systems**.
 
-With a strong understanding of both hardware and software, I have been involved in the development process of various embedded products, ranging from small-scale microcontrollers and ARM processors to complex embedded systems such as IoT (Internet of Things) and control devices.
-I also have experience in security camera firmware development and an understanding of multimedia encoding and decoding technology.
+Over the past 5+ years, I have worked on firmware development for surveillance cameras, embedded IoT devices, and web-based control platforms. My main focus is building reliable systems that can capture, process, stream, store, and visualize real-world data — from camera video pipelines to smart home automation and cloud-connected IoT solutions.
 
-## Skills
+## What I Work On
 
-- Designing, developing, and deploying embedded systems.
-- Admintransitor Linux system.
-- Embedded programming using languages such as C/C++ and other high-level programming languages.
-- Knowledge of microcontrollers and microprocessors.
-- Testing, debugging, and optimizing the performance of embedded systems, building multi-threaded systems.
-- Working with embedded protocols and technologies such as SPI, I2C, UART, MQTT, BLE, WiFi, and LoRa.
-- I have almost 5 years of experience programming firmware for cameras: Audio Encode & Video Encode, Mp4, AAC, RTSP, and HLS. Cloud storage
-- Ensuring reliability and safety in embedded systems.
+### Camera Firmware & Streaming Systems
 
+I have strong hands-on experience in camera firmware development, including:
 
-## Accomplished Projects
+* Video and audio encoding pipelines: **H.264, H.265, PCM, G.711, AAC**
+* Streaming protocols: **RTSP, RTP, RTMP, RTMPS, HLS, TS**
+* Local and cloud storage solutions, including **SD card recording, MP4/FMP4, and AWS S3**
+* Camera feature development, debugging, performance tuning, and system reliability
+* Cross-compiling libraries and integrating them into embedded Linux environments
+* Working with low-level camera systems, media pipelines, and network streaming behavior
 
-1. **Development firmware Camera**:
+I am especially interested in building **low-latency, scalable, and vendor-independent camera streaming solutions**, including RTSP-to-WebRTC bridges, playback systems, and browser-based camera management platforms.
 
-    - I have over 5 years of experience as a firmware design engineer for the Camera Surveillance 
-    - My main job is to research and develop camera features. Solutions for storing and processing images, audio, and streaming on camera.
-    - The job requires knowledge of video & audio encoding, and common streaming standards such as HLS, TS, RTSP, RTMP...
-    - Analyze and process video & audio signals: H264/H265 ,PCM,G711, AAC.
-    - Cross-compile the required libraries.
-    - Working with storage solutions: Local storage & AWS3 Cloud Storage
+### Embedded Linux & System Development
 
-2. **Smart IoT Embedded System for Home Automation**: 
-    - Played a key role in the development and deployment of an embedded IoT system for a smart home. 
-    - Controlled and monitored devices through a user interface, connected devices using WiFi and MQTT, BLE, ZIGBEE...
+I work with embedded Linux systems from development to deployment, including:
 
-3. **Healthy Care - Finger Pulse Oximeter**:
-    - The device is developed on esp32 + IDF.
-    - The device helps to check the heart rate and blood pressure quickly
-    - Display parameters on LCD, connect to send data to phone via BLE 5.0 & wifi AP mode.
-    
-4. **Smart Lora for the Farm**:
-    - Development and deployment of an embedded IoT system for the farm.
-    - Environmental monitoring system: temperature, humidity, wind, water level... 
-    - Helps ensure the transmission of data over a certain distance without the need for the internet.
-    - Allows setting up an automatic irrigation system in real-time
+* Linux system administration and debugging
+* Multi-threaded embedded applications
+* C/C++ firmware development
+* Performance optimization for constrained devices
+* System reliability, safety, and long-running stability
+* Networking, storage, and real-time data processing
 
-## Conclusion
+### IoT & Smart Embedded Systems
 
-I am an Embedded Engineer dedicated to designing and developing intelligent embedded systems. With my skills and experience, I strive to contribute to the advancement of embedded technology. Feel free to reach out to me for any inquiries or collaboration opportunities.
+I have developed IoT systems for smart homes, healthcare devices, and agriculture, using technologies such as:
+
+* **WiFi, MQTT, BLE, Zigbee, LoRa**
+* **SPI, I2C, UART**
+* ESP32 and ESP-IDF
+* Sensor data collection, device monitoring, and real-time control
+* Mobile/web communication and cloud connectivity
+
+Some projects I have worked on include:
+
+* Smart home automation systems using WiFi, MQTT, BLE, and Zigbee
+* Finger pulse oximeter device using ESP32, LCD display, BLE 5.0, and WiFi AP mode
+* LoRa-based farm monitoring system for temperature, humidity, wind, water level, and automatic irrigation
+
+### Web & Camera Management Platforms
+
+Besides embedded development, I also build web-based tools and interfaces for camera and IoT systems, such as:
+
+* Camera playback UI on web browsers
+* Real-time video control dashboards
+* WebRTC-based camera streaming interfaces
+* Device configuration pages
+* Data visualization and monitoring tools
+
+This combination of **embedded firmware + streaming + web UI** allows me to design full-stack camera and IoT solutions from device firmware to user-facing applications.
+
+## Core Skills
+
+* Embedded C/C++ development
+* Embedded Linux
+* Camera firmware development
+* Video/audio encoding and streaming
+* RTSP / RTP / RTMP / RTMPS / HLS
+* MP4 recording and cloud storage
+* MQTT / BLE / WiFi / Zigbee / LoRa
+* SPI / I2C / UART
+* Multi-threaded system design
+* Debugging and performance optimization
+* Web-based camera and IoT control systems
+
+## My Engineering Focus
+
+I enjoy solving problems where hardware, firmware, networking, media streaming, and web technologies meet.
+
+My goal is to build embedded and camera systems that are:
+
+* Reliable in real-world environments
+* Efficient on limited hardware
+* Easy to integrate and maintain
+* Scalable from device to cloud
+* Friendly for users through clean web interfaces
+
+I am always interested in collaborating on projects related to **camera systems, embedded Linux, IoT platforms, real-time streaming, WebRTC, and intelligent edge devices**.
+
